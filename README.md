@@ -1,4 +1,8 @@
-# myRepos
-PythonShooterGame
-Simple game made in python 3.6 and pygame. First open server.py and after that open client.py when server is running.
-First client can choose number of players from 1 to 4 in console.
+# Python multiplayer shooter game
+
+Simple game made in python 3.6 and pygame. 
+
+How to run:
+- run server.py
+- run multiple clients (first client chooses number of players)
+- have fun!
